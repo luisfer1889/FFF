@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 ,WARNER
+https://wisp.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
+#EXTINF:-1 ,Canal Caracol HD
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 ,COMEDY CENTRAL
+https://wisp.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
+#EXTINF:-1 ,DISCOVERY KITS
+https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
+#EXTINF:-1 ,TELEAMAZONAS
+https://player-api.new.livestream.com/accounts/1359588/events/9942377/broadcasts/232660573.secure.m3u8?dw=14400&hdnea=st%3D1661446211~exp%3D1661448011~acl%3D%2Fi%2F1359588_9942377_lsiw3iyoixqh9aqhi1n_1%40301644%2F%2A~hmac%3D6a4dbcccc958c40861c8a9a66ecaf1fcdcb9df3e0340b2cc43e38e4e90b1619d&token=6307a96f_165c4c02abacbb75271f18184bc0d92eebe91442
+#EXTINF:-1 ,RTS
+https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
+#EXTINF:-1 ,TVC
+https://d6op0qag07k4o.cloudfront.net/hls/tvc_480.m3u8
+#EXTINF:-1 ,SPACE
+https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space-avc1_2499584=6.m3u8
+#EXTINF:-1 ,SPACE
+https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space-avc1_2499584=6.m3u8
